@@ -4,14 +4,14 @@ This project analyzes a retail Superstore sales dataset using Python to understa
 
 ## Dataset
 9,800 records and 18 columns <br>
-Date range: January 2015–December 2018
-4,922 unique orders and 793 unique customers
+Date range: January 2015–December 2018 <br>
+4,922 unique orders and 793 unique customers <br>
 
 ## Tools
-Python, 
-Pandas, 
-NumPy, 
-Matplotlib, 
+Python, <br>
+Pandas, <br>
+NumPy, <br>
+Matplotlib, <br>
 Seaborn, and Jupyter Notebook.
 
 ## Methodology
