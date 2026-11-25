@@ -18,13 +18,13 @@ Seaborn, and Jupyter Notebook.
 The dataset was checked for missing values, duplicates, and data types. Date columns were converted to date format. Sales were analyzed by year, month, category, product, customer, and region. Charts and statistical methods were used to present patterns.
 
 ## Key Findings
-Total sales: $2,261,536.78
-Highest-sales year: 2018
-Highest-selling category: Technology
-Highest-selling sub-category: Phones
-Top product by sales: Canon imageCLASS 2200 Advanced Copier
-Top customer by sales: Sean Miller
-Highest-sales region: West
+Total sales: **$2,261,536.78** <br>
+Highest-sales year: **2018** <br>
+Highest-selling category: **Technology** <br>
+Highest-selling sub-category: **Phones** <br>
+Top product by sales: **Canon imageCLASS 2200 Advanced Copier** <br>
+Top customer by sales: **Sean Miller** <br>
+Highest-sales region: **West**
 
 ## Conclusion
 The project uses data analysis and visualizations to identify sales trends and the products, customers, and regions contributing most to retail sales.
