@@ -3,7 +3,7 @@
 This project analyzes a retail Superstore sales dataset using Python to understand sales performance across time, products, customers, and regions.
 
 ## Dataset
-9,800 records and 18 columns
+9,800 records and 18 columns <br>
 Date range: January 2015–December 2018
 4,922 unique orders and 793 unique customers
 
