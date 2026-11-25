@@ -1,2 +1,26 @@
-# sales-data-analysis
-Exploratory Data Analysis and Business Insights from Sales Data. 
+### Sales Data Analysis
+## Overview
+This project analyzes a retail Superstore sales dataset using Python to understand sales performance across time, products, customers, and regions.
+
+## Dataset
+9,800 records and 18 columns
+Date range: January 2015–December 2018
+4,922 unique orders and 793 unique customers
+
+## Tools
+Python, Pandas, NumPy, Matplotlib, Seaborn, and Jupyter Notebook.
+
+## Methodology
+The dataset was checked for missing values, duplicates, and data types. Date columns were converted to date format. Sales were analyzed by year, month, category, product, customer, and region. Charts and statistical methods were used to present patterns.
+
+## Key Findings
+Total sales: $2,261,536.78
+Highest-sales year: 2018
+Highest-selling category: Technology
+Highest-selling sub-category: Phones
+Top product by sales: Canon imageCLASS 2200 Advanced Copier
+Top customer by sales: Sean Miller
+Highest-sales region: West
+
+## Conclusion
+The project uses data analysis and visualizations to identify sales trends and the products, customers, and regions contributing most to retail sales.
