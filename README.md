@@ -8,7 +8,11 @@ Date range: January 2015–December 2018
 4,922 unique orders and 793 unique customers
 
 ## Tools
-Python, Pandas, NumPy, Matplotlib, Seaborn, and Jupyter Notebook.
+Python, 
+Pandas, 
+NumPy, 
+Matplotlib, 
+Seaborn, and Jupyter Notebook.
 
 ## Methodology
 The dataset was checked for missing values, duplicates, and data types. Date columns were converted to date format. Sales were analyzed by year, month, category, product, customer, and region. Charts and statistical methods were used to present patterns.
