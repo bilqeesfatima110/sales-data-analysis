@@ -1,4 +1,4 @@
-### Sales Data Analysis
+# Sales Data Analysis
 ## Overview
 This project analyzes a retail Superstore sales dataset using Python to understand sales performance across time, products, customers, and regions.
 
